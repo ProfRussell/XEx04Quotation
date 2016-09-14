@@ -1,10 +1,15 @@
 CSD 3354 Assignment 1
 
 1) Open Visual Studio
+
 2) Clone the starting files 
+
 3) Repository URL: https://github.com/ProfRussell/XEx04Quotation.git
+
 4) Work from There
+
 5) Use the dropbox to submit you final zipped assignment
+
 6) Use the naming convention assign01-c06XXXXX.zip
 
 
